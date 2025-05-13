@@ -1,2 +1,0 @@
-# wGamesList
-test project. website.
